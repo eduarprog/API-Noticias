@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    
+}
+
+.contenedor{
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    width: 60%;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.principal{
+    padding: 10px;
+
+}
+
+.img{
+    width: 160px;
+    height: 160px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+
